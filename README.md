@@ -1,7 +1,6 @@
 # 180C-Proj
 Sudoku Solution Multithreading Validator
 
-Abstract
 The topic we choose is to implement a sudoku solution multithreading validator.
 A sudoku is a combinatorial number placement puzzle. The aim is to fill the 9 x 9 grid in each column and row, and each of the nine 3 x 3 subgrids.
 Each column, row and subgrid must contain all of the digits from 1 through 9. 
