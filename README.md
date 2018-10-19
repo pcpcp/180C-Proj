@@ -1,9 +1,6 @@
 # 180C-Proj
 Sudoku Solution Multithreading Validator
-Project/group #6Names/IDs:  
-Chao Pi 013785265
-Haoyuan Wang 013768209
-Zihao Gu 012503543
+
 Abstract
 The topic we choose is to implement a sudoku solution multithreading validator.
 A sudoku is a combinatorial number placement puzzle. The aim is to fill the 9 x 9 grid in each column and row, and each of the nine 3 x 3 subgrids.
